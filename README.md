@@ -8,14 +8,16 @@
   ![image](https://user-images.githubusercontent.com/22278312/218531361-94cf8e49-1ece-4c9e-a252-a01277fca749.png)
 
 2. 點擊[此連結](https://github.com/gandolfreddy/studentListFilter/raw/main/src/studentListFilter.user.js)，即可啟動 Tampermonkey 擴充功能頁面，按下「安裝」或「重新安裝」後即可自動安裝完畢。
-  ![image](https://github.com/gandolfreddy/studentListFilter/assets/22278312/edd6b293-eeca-4128-8c19-0824fcc7559f)
+   ![image](https://github.com/gandolfreddy/studentListFilter/assets/22278312/266352d8-24e8-4a9b-9dbb-4b78a6ddf57f)
 
 ## 更新流程
 
 點擊[此連結](https://github.com/gandolfreddy/studentListFilter/raw/main/src/studentListFilter.user.js)，即可啟動 Tampermonkey 擴充功能頁面，按下「更新」或「重新安裝」後即可自動更新完畢。
-  ![image](https://github.com/gandolfreddy/studentListFilter/assets/22278312/edd6b293-eeca-4128-8c19-0824fcc7559f)
+![image](https://github.com/gandolfreddy/studentListFilter/assets/22278312/266352d8-24e8-4a9b-9dbb-4b78a6ddf57f)
 
 ## 操作畫面示範
+
+[影片]
 ---
 
 ## 個人實驗記錄
