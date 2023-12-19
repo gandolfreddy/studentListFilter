@@ -2,6 +2,8 @@
 // @name         學生資料過濾器
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @source       https://raw.githubusercontent.com/gandolfreddy/studentListFilter/main/src/studentListFilter.js
+// @namespace    https://raw.githubusercontent.com/gandolfreddy/studentListFilter/main/src/studentListFilter.js
 // @description  過濾出需要的學生名單
 // @author       您的名字
 // @match        https://corp.orangeapple.co/marketing/sales/admission_count*
