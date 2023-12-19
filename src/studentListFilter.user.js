@@ -5,7 +5,7 @@
 // @source       https://raw.githubusercontent.com/gandolfreddy/studentListFilter/main/src/studentListFilter.js
 // @namespace    https://raw.githubusercontent.com/gandolfreddy/studentListFilter/main/src/studentListFilter.js
 // @description  過濾出需要的學生名單
-// @author       您的名字
+// @author       Gandolfreddy
 // @match        https://corp.orangeapple.co/marketing/sales/admission_count*
 // @grant        GM_addStyle
 // ==/UserScript==
